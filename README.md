@@ -52,3 +52,22 @@ Steps:
 
 Expected behaviour: Sign in requirement box pop-ups next to the like button. 
 
+
+Language - JavaScript
+
+ 
+
+Test framework – Mocha
+
+ 
+
+WebDriver library -  Puppteteer
+
+ 
+
+Package manager – NPM
+
+ 
+
+Version control – Git 
+
