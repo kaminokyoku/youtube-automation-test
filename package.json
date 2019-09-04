@@ -1,0 +1,16 @@
+{
+  "name": "youtube-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test/initialization.js",
+  "scripts": {
+    "test": "mocha --timeout 0  ./test/initialization.js --recursive test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "puppeteer": "^1.19.0"
+  }
+}
