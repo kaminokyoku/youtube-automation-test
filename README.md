@@ -35,7 +35,7 @@ Expected behaviour: The view count and title match what was displayed on the vid
 
 <font color="red">Test case 3</font>
 
-Title: Click like button pop-ups signs in requirement box
+Title: Click like button pop-ups sign in requirement box
 
 Steps:
 
