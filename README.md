@@ -1,5 +1,10 @@
 # Youtube-Automation-Test
 
+# puppeteer-mocha-automated-testing
+![logo image](https://github.com/tariqulislam/puppeteer-mocha-automated-testing/blob/master/logo.png)
+
+Automated the Testing using Puppeteer, Mocha, chai.
+
 <font color="red">Test case 1</font>
 
 Title: First search result should contain the search input 
