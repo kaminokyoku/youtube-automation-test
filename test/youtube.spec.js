@@ -93,8 +93,8 @@ describe('Video Detail', async () => {
         let likeButton = await page.$('.yt-simple-endpoint.style-scope.ytd-toggle-button-renderer');
         await likeButton.click();
 
-        await page.waitFor(3000);
-        await page.$('#contentWrapper > ytd-modal-with-title-and-button-renderer').should.exist;
+        let result = await page.$('body > ytd-app > ytd-popup-container > iron-dropdown');
+        expect(result).to.be.exist;
     });
 
     after(async function () {
